@@ -1,7 +1,7 @@
 {
   "gallery_title": "Aquareverie",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-23 22:41:26",
+  "last_updated": "2026-02-23 22:57:02",
   "images": [
     {
       "file_hash": "3f73cfbc",
@@ -43,5 +43,6 @@
     "Selfie",
     "Landscape",
     "Group Photo"
-  ]
+  ],
+  "base_url": "https://packyy30.github.io/aquareverie"
 }
