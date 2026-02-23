@@ -1,8 +1,30 @@
 {
   "gallery_title": "Aquareverie",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-23 22:36:20",
+  "last_updated": "2026-02-23 22:41:26",
   "images": [
+    {
+      "file_hash": "3f73cfbc",
+      "date": "2026-02-12",
+      "title": "Lumina",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "Lumina"
+      ],
+      "photographer": "packyy"
+    },
+    {
+      "file_hash": "af052f83",
+      "date": "2026-02-18",
+      "title": "Suihaaa",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "Suiha"
+      ],
+      "photographer": "packyy"
+    },
     {
       "file_hash": "010f2672",
       "date": "2026-02-12",
